@@ -1,5 +1,37 @@
+body {
+  background-color: #fafafa;
+}
 .header-container {
+  background-color: #333333;
   height: 64px;
   text-align: center;
-  background-color: #333333;
+}
+.meme-container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 640px;
+}
+.meme-box {
+  background-color: #ffffff;
+  border: 1px #eaeaea;
+  box-shadow: -1px 1px 9px 6px #b5b5b5;
+  height: auto;
+  margin-top: 30px;
+  padding-bottom: 10px;
+}
+.meme-image {
+  width: 640px;
+}
+h2 {
+  color: #aa4653;
+  font-size: 48px;
+  font-weight: bold;
+  margin: 30px;
+}
+p {
+  color: #000000;
+  margin: auto 30px 30px 30px;
+}
+.margin-bottom-last-meme {
+  margin-bottom: 40px;
 }
